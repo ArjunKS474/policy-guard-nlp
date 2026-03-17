@@ -104,23 +104,6 @@ http://localhost:8501
 
 ---
 
-## 🧪 Example
-
-**Input:**
-
-```
-You are a stupid idiot
-```
-
-**Output:**
-
-* Toxic: 0.91
-* Insult: 0.88
-* Severity: HIGH
-* Status: Policy Violation
-
----
-
 ## 📊 How It Works
 
 1. User enters text
