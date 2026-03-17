@@ -124,9 +124,11 @@ http://localhost:8501
 
 ---
 
-## 📸 Demo
+## 🌐 Live Demo
 
-*Add your screenshots here*
+👉 https://policy-guard-nlp.streamlit.app/
+
+Experience the PolicyGuard NLP system in action — analyze social media content in real-time and detect policy violations with severity scoring.
 
 ---
 
